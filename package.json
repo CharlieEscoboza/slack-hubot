@@ -22,8 +22,5 @@
   "engines": {
     "node": "5.1.0",
     "npm": "3.5.3"
-  },
-  "scripts": {
-    "HUBOT_SLACK_TOKEN=xoxb-19289803863-ZzVNE6g2ndAEsPpFHbC3ESBR HUBOT_HEROKU_KEEPALIVE_URL=https://chapiot.herokuapp.com ./bin/hubot --adapter slack --app chapiot"
   }
 }
